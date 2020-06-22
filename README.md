@@ -7,6 +7,6 @@
 >Updated date:2020/06/22  
 
 Datasets:
-the-movies-dataset: https://www.kaggle.com/rounakbanik/the-movies-dataset
-TMDB 5000 Movie Dataset: https://www.kaggle.com/tmdb/tmdb-movie-metadata
-MovieLens 20M Dataset: https://www.kaggle.com/grouplens/movielens-20m-dataset
+* the-movies-dataset: https://www.kaggle.com/rounakbanik/the-movies-dataset
+* TMDB 5000 Movie Dataset: https://www.kaggle.com/tmdb/tmdb-movie-metadata
+* MovieLens 20M Dataset: https://www.kaggle.com/grouplens/movielens-20m-dataset
