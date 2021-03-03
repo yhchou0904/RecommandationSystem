@@ -1,4 +1,4 @@
-# 16th-Shirley-RecommandationSystem
+# RecommandationSystem
 
 利用 Python 及 Kaggle 上的 dataset 實作推薦系統的教材：
 
